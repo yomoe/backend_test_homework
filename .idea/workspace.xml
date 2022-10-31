@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fc407b69-af54-41a6-a6d3-f5b6a032a56d" name="Changes" comment="debug program.py">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    <list default="true" id="fc407b69-af54-41a6-a6d3-f5b6a032a56d" name="Changes" comment="Added new files">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -30,7 +29,7 @@
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
     &quot;dart.analysis.tool.window.visible&quot;: &quot;false&quot;,
     &quot;last_opened_file_path&quot;: &quot;/Users/yo_moe/Dev/backend_test_homework&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settingsdialog.IDE.editor.colors..ignore files&quot;
   }
 }</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -42,7 +41,8 @@
       <option name="presentableId" value="Default" />
       <updated>1667217357432</updated>
       <workItem from="1667217359675" duration="2141000" />
-      <workItem from="1667221464168" duration="864000" />
+      <workItem from="1667221464168" duration="1367000" />
+      <workItem from="1667225186260" duration="759000" />
     </task>
     <task id="LOCAL-00001" summary="debug program.py">
       <created>1667221099327</created>
@@ -58,7 +58,14 @@
       <option name="project" value="LOCAL" />
       <updated>1667221524856</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Added new files">
+      <created>1667222937221</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1667222937221</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -89,6 +96,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="debug program.py" />
-    <option name="LAST_COMMIT_MESSAGE" value="debug program.py" />
+    <MESSAGE value="Added new files" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added new files" />
   </component>
 </project>
