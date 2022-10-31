@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fc407b69-af54-41a6-a6d3-f5b6a032a56d" name="Changes" comment="debug program.py">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -41,7 +42,7 @@
       <option name="presentableId" value="Default" />
       <updated>1667217357432</updated>
       <workItem from="1667217359675" duration="2141000" />
-      <workItem from="1667221464168" duration="632000" />
+      <workItem from="1667221464168" duration="864000" />
     </task>
     <task id="LOCAL-00001" summary="debug program.py">
       <created>1667221099327</created>
